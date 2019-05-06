@@ -115,6 +115,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:abhineet.verma07@email.com
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/vermaabhineet/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
